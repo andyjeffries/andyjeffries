@@ -11,6 +11,7 @@
     border: 2px solid var(--heading-color);
   }
   .author-name {
+    color: var(--heading-color) !important;
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
@@ -28,6 +29,7 @@
     height: 50px;
   }
   .author-name {
+    color: var(--heading-color) !important;
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
