@@ -74,7 +74,7 @@ After a brief 20 minutes of paperwork, we were then dismissed for the day, told 
 
 ## Monday 25th
 
-The first day of the course. We arrived at just before 8am, quickly got changed in to our Taekwondo uniforms and waiting on the main training floor at the Kukkiwon for the class to start. Almost everyone was there early or on time, so there was no need for a major telling off from Kukkiwon like normal. We were then called up in classes — 1st Class first, then 2nd Class (of which I was number one) and then 3rd Class to get our name badge, locker key, text book, timetable and give our sizing for Adidas dobok and T-shirts.
+The first day of the course. We arrived at just before 8am, quickly got changed in to our Taekwondo uniforms and waiting on the main training floor at the Kukkiwon for the class to start. Almost everyone was there early or on time, so there was no need for a major telling off from Kukkiwon like normal. We were then called up in classes — 1st Class first, then 2nd Class (of which I was number one) and then 3rd Class to get our name badge, locker key, text book, timetable and give our sizing for dobok and T-shirts.
 
 A change from last time is that this year the 3rd Class are in one lecture room and 1st/2nd Class are in another, and we will be basically alternating sessions so I’ll never see my students in the same place up until the physical and written tests.
 
@@ -120,7 +120,7 @@ W2 is the amount of weight you used, R is the amount of repetitions you could do
 
 He then also took us through the equation for calculating the optimal heart rate for aerobic fitness improvement, which is actually a tweaked version of something I thought I understood, but apparently not. So the maximum heart rate is always 220-Age. Given this though, to calculate a target heart rate you should remove the resting pulse rate, multiply the remainder by say 75% and the re-add back in the resting pulse rate. I’m sure other places just multiplied the maximum heart rate by 75%.
 
-The final session was on sparring training. The professor was an ex-World Champion (although I didn’t catch his name) and a current instructor to both the military and US CIA. He was assisted my an ex-Kukkiwon Demonstration Team member, Master Leo Kim. We warmed up with a fairly standard warm-up and then it was in to some footwork combinations done to numbers. Sometimes the instructor said one number but held up his fingers for another, then berated the class for doing as we were told to do. I think this was a philosophical lesson that you shouldn’t look for what your opponent is telling you (feints), but what they are doing (body position, patterns of movement, etc).
+The final session was on sparring training. The professor was an ex-World Champion (although I didn’t catch his name) and a current instructor to both the military and US CIA. He was assisted by an ex-Kukkiwon Demonstration Team member, Master Leo Kim. We warmed up with a fairly standard warm-up and then it was in to some footwork combinations done to numbers. Sometimes the instructor said one number but held up his fingers for another, then berated the class for doing as we were told to do. I think this was a philosophical lesson that you shouldn’t look for what your opponent is telling you (feints), but what they are doing (body position, patterns of movement, etc).
 
 Then we went on to some simple paddle drills. Unfortunately during one of these I hurt my knee (this was a previous injury that had so far held up well, but two intense 3 hour sessions in a day was too much for it). I sat out and watched the rest.
 
@@ -128,7 +128,7 @@ Then we went on to some simple paddle drills. Unfortunately during one of these 
 
 The first session of the day was on self-defence, run by GM Kim, Moon-Ok. Before going on to the dojang floor we watch a 20 minute video in the classroom containing the entire new syllabus of Kukkiwon-Taekwondo self-defence. I recorded this on my iPad, but as GM Kim said it was a rough version and not the finished product, I won’t be uploading it anywhere. I was pleased to see that it includes all of the stuff that we already do in my dojang, including breakfalls, hapkido-style joint locks and throws, as well as more Judo style takedowns, gun/knife disarms and BJJ type submissions such as rear naked chokes, armbars, guillotines and americanas.
 
-We then went on to the floor to practice some wrist and hair releases. These were very similar to how my dojang already does it but with some subtle differences in placement and style. When the Kukkiwon finishes the final SD DVD it’ll be easier to ensure everyone is teaching the same syllabus.
+We then went on to the floor to practice some wrist and hair releases. These were very similar to how my dojang already does it but with some subtle differences in placement and style. When the Kukkiwon finishes the final self-defence DVD it’ll be easier to ensure everyone is teaching the same syllabus.
 
 After that was a philosophy lecture by the president of the World Taekwondo Academy. He went through what were important elements of health and types of breathing:
 
