@@ -113,8 +113,9 @@ In between we had a lecture on Health, Injury Prevention and First Aid from Dr K
 We went through how to improve strength, power and endurance using different rep ranges during weight training (6–8, 10, 12–15 respectively) and how to calculate what the one rep maximum weight is (1RM) given that you know how many reps you can do with any given weight.
 
 > W1 = W2 x R x 0.025
-> 1RM = W1 + W2
 >
+> 1RM = W1 + W2
+
 W2 is the amount of weight you used, R is the amount of repetitions you could do. Given those two values you can calculate W1 which when then added to your W2 gives you your 1RM (at least in theory), you can then calculate back from this to know how much weight to use for a given number of target reps.
 
 He then also took us through the equation for calculating the optimal heart rate for aerobic fitness improvement, which is actually a tweaked version of something I thought I understood, but apparently not. So the maximum heart rate is always 220-Age. Given this though, to calculate a target heart rate you should remove the resting pulse rate, multiply the remainder by say 75% and the re-add back in the resting pulse rate. I’m sure other places just multiplied the maximum heart rate by 75%.
