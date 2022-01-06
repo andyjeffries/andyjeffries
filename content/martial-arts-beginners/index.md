@@ -2,6 +2,7 @@
 title: "Martial arts beginners: I could never do that…"
 date: 2018-11-07
 description: "Everyone has to start sometime, and those first steps can be daunting"
+image: /images/beginner.jpg
 ---
 I’ve been a Taekwondo instructor for around 25 years now, so while my own start in martial arts was a lifetime ago, the experiences are fresh because I’ve seen the same thing on so many people’s faces over those years.
 

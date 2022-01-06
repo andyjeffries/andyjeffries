@@ -2,6 +2,7 @@
 title: Core principles of correct Taekwondo poomsae performance
 date: 2018-06-28
 description: 'From my few times at doing courses under Kukkiwon’s World Taekwondo Academy and from my instructor Grandmaster Pan, I’ve learnt that a lot of Taekwondo practitioners around the world treat poomsae as just a series of kicks, punches, etc.'
+image: /images/principles.jpg
 ---
 
 From my few times at doing courses under Kukkiwon’s World Taekwondo Academy and from my instructor Grandmaster Pan, I’ve learnt that a lot of Taekwondo practitioners around the world treat poomsae as just a series of kicks, punches, blocks etc — without thinking about the core concepts of Kukkiwon Taekwondo movement and how they are applied in poomsae.
@@ -9,6 +10,7 @@ From my few times at doing courses under Kukkiwon’s World Taekwondo Academy an
 I’ve been thinking about this for a while and teach these core concepts in my dojang, but thought it might be time to put electronic pen to electronic paper and put them out there for others to reference. So here follows my list of Taekwondo core concepts that should be demonstrated in Kukkiwon poomsae:
 
 ## Core Principle 1 — Um-yang
+
 The centre of the Korean flag is two coloured swirls (red and blue), both equal in area and fitting in to a circle. It’s kind of like the generally known “yin-yang” symbol, but solid coloured and red/blue not black/white. The meaning of this symbol is of opposites and harmony. Hard/soft, fast/slow, light/dark, male/female, etc. They are equal but opposite, but co-existing peacefully.
 
 A lot of people don’t know how you demonstrate this in poomsae. It’s really quite simple, the preparation phase for a movement should be gentle, the action phase should be fast. So taking Taegeuk 1’s first movement — the left hand raises up to the shoulder gentle, the right hand raises slightly and points in the direction of travel gently — then both arms rapidly move in to the Naeryo Makki (downward/low block) position! So you had the gentle/soft and the fast phases in harmony to produce the first movement. The same is true for pretty much every hand technique in every poomsae!

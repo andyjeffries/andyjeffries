@@ -2,6 +2,7 @@
 title: "Promotions and grading tests"
 date: 2018-11-07
 description: "Lots of people differ on how often they do promotions in martial arts, how they do the tests themselves"
+image: /images/grading.jpg
 ---
 
 I’ve been doing Taekwondo since 1986 and over the years I watched gradings done in different ways, by different teachers. Some I agreed with, some I didn’t. In the end I came back to how my first instructor Grandmaster Pan Sim Woon did promotion tests and I found that it is the way I feel most comfortable. It’s easy to write this off as just copying the first example, but I feel that I have reasons for doing things that way and can therefore justify why I do it that way.

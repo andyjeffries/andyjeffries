@@ -2,6 +2,7 @@
 title: World Taekwondo Leaders Forum 2012 — Seoul, South Korea
 date: 2012-09-21
 description: 'The Kukkiwon (World Taekwondo Headquarters) invited me to South Korea to attend the World Taekwondo Leaders Forum in 2012, I kept a diary from the event.'
+image: /images/wtlf2012.jpg
 ---
 
 ## Day 1

@@ -2,6 +2,7 @@
 title: Diary of Kukkiwon Poom/Dan Examiner Course — Vienna, Austria November 2015
 date: 2015-09-29
 description: 'The Kukkiwon (World Taekwondo Headquarters) announced some controversial new black belt promotion rules. I went to attend the second course they offered and kept a diary of it…'
+image: /images/poom-dan-examiner2015.jpg
 ---
 
 The Kukkiwon (World Taekwondo Headquarters) announced some controversial new black belt promotion rules. I went to attend the second course they offered and kept a diary of it...

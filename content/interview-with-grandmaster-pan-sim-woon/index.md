@@ -2,6 +2,7 @@
 title: Interview with Grandmaster Pan Sim Woon 8th Dan Taekwondo
 date: 2017-09-14
 description: 'I had the time in 2010 to ask Grandmaster Pan Sim Woon, 8th Dan in Taekwondo, some questions about his views on Taekwondo and poomsae.'
+image: /images/gmpan.jpg
 ---
 
 I had the time in 2010 to ask Grandmaster Pan Sim Woon, 8th Dan in Taekwondo, some questions about his views on Taekwondo and poomsae.

@@ -2,6 +2,7 @@
 title: My life in Taekwondo ... so far
 date: 2021-03-14
 description: 'From my few times at doing courses under Kukkiwon’s World Taekwondo Academy and from my instructor Grandmaster Pan, I’ve learnt that a lot of Taekwondo practitioners around the world treat poomsae as just a series of kicks, punches, etc.'
+image: images/mylife.jpg
 ---
 
 My Taekwondo life started when I was 12. During Junior School (6 years to 11 years in the UK) I was bullied over the last few years of it. When I raised it with my parents, I was told “it’s just kids being kids” and “don’t worry, new school soon, it’ll be different kids and it will all stop”. Well, I changed school at 11 and for the first year things went from being a whole year of new kids who didn’t know each other, to me being back at the bottom of the pile, bullied by the cool kids and being scared to go to school every day (having molten solder flicked at you and chased by people holding hammers will do that). Sadly my mum gave the same advice “wait until next year, everyone will be a bit older and more sensible and it will stop”.

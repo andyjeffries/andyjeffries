@@ -2,6 +2,7 @@
 title: Diary of International Taekwondo Master Training Course, Korea 2016
 date: 2016-07-25
 description: 'After successfully passing Class 3 Master Instructor course in 2013, I went back with some students in 2016 to qualify for my Class 2. Again, I kept a diary from the event.'
+image: /images/mastercourse2016-cover.jpg
 ---
 
 After my successful time taking the [3rd Class Foreign Master Instructor course in 2013](/posts/foreign-taekwondo-master-course-2013/), I decided to go back with some students to do the course again in 2016.

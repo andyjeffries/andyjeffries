@@ -1,9 +1,17 @@
 <template>
-  <div>
-    <h4>
-      <span>Latest Articles</span>
-    </h4>
-    <div class="">
+  <div class="container mx-auto">
+    <div class="flex items-start space-x-4">
+      <img src="/images/andy.jpg" class="rounded-full h-16 shadow" />
+      <div>
+        <h1 class="text-3xl text-blue-800 dark:text-blue-200 font-medium">Taekwondo instructor and technologist</h1>
+        <h2 class="text-xl text-blue-600">Random writings on martial arts.</h2>
+
+        <p class="mt-2 text-lg leading-6 text-gray-800 dark:text-gray-200 max-w-3xl">I'm one guy on a journey to learn Taekwondo as accurately as I can, pass it on as accurately as I can and do justice to the founders and seniors of this art that has given me so much in trying to play a good part in ensuring its future is secure.</p>
+      </div>
+    </div>
+
+    <h4 class="text-xl mt-20 text-gray-800 dark:text-gray-200">My articles</h4>
+    <div class="mt-8 text-gray-800 dark:text-gray-200 grid grid-cols-3 gap-10">
       <section
         v-for="post in articles"
         :key="post.title"
@@ -16,14 +24,11 @@
                 v-if="post.image"
                 :src="post.image"
                 :alt="post.title"
-                style="width: 100%; height: 250px"
+                class="object-cover rounded w-full aspect-video"
               />
             </div>
-            <div class="uk-card-body">
-              <h3 class="uk-card-title" style="margin-top: 0px">
-                {{ post.title }}
-              </h3>
-            </div>
+            <h3 class="mt-4 text-xl text-gray-800 dark:text-gray-100 font-medium">{{ post.title }}</h3>
+            <p class="mt-4 text-gray-600 dark:text-gray-400">{{ post.description }}</p>
           </div>
         </nuxt-link>
       </section>

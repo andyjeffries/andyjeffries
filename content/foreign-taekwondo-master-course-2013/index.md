@@ -2,6 +2,7 @@
 title: Diary of Foreign Taekwondo Master Training Course, Korea 2013
 date: 2012-09-21
 description: 'I went back to Korean in 2013 to attend the Kukkiwon (World Taekwondo Headquarters) Foreign Master Instructor course (now called International Master Course), I kept a diary from the event.'
+image: /images/mastercourse2013.jpg
 ---
 
 **UPDATE:** I went [back to Kukkiwon with some students in 2016 and sat the course again](/posts/international-master-instructor-course-2016/), this time for my 2nd class.
