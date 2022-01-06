@@ -8,6 +8,7 @@ This is v3 of my personal website. Version 1 was in Ruby on Rails, waaaaay back 
 * Using the [NuxtJS Content module)(https://content.nuxtjs.org) to automatically parse Markdown files for the content
 * Styled using [TailwindCSS 3](https://tailwindcss.com/docs/guides/nuxtjs)
 * Deployed to [Netlify](https://nuxtjs.org/deployments/netlify/) for free static site hosting
+* Good article on building a [Static Nuxt blog using Content](https://gilberttanner.com/blog/creating-a-blog-with-nuxt-content)
 
 ## Steps used in building
 
