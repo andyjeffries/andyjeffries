@@ -146,6 +146,7 @@ ul {
     list-style: disc; }
     .content ul li,
     .content ol li {
+      list-style: disc;
       font-size: 18px;
       line-height: 20px;
       margin-bottom: 10px;
@@ -158,6 +159,8 @@ ul {
       .content ul,
       .content ol {
         margin-left: 20px; } }
+  .content ol {
+    list-style: decimal; }
   .content a {
     text-decoration: underline; }
   .content blockquote {
