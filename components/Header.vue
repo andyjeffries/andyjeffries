@@ -1,6 +1,6 @@
 <template>
   <header class="border-b border-gray-200 dark:border-gray-600 py-4 mb-10">
-    <div class="container mx-auto flex justify-between items-center">
+    <div class="max-w-6xl mx-auto flex justify-between items-center">
       <a href="/" class="text-2xl text-blue-800 dark:text-blue-200">Andy<span class="text-blue-500">Jeffries</span><span class="text-gray-400 text-lg">.co.uk</span></a>
       <div class="flex space-x-2">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hover:text-blue-500 text-gray-300 dark:text-gray-700 cursor-pointer js-switcher-light" fill="none" viewBox="0 0 24 24" stroke="currentColor">

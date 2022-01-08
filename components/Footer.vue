@@ -1,6 +1,6 @@
 <template>
   <footer class="mt-4 bg-gray-800 text-gray-100 dark:bg-gray-900 py-3">
-    <div class="container mx-auto flex items-center justify-between">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
       <div class="text-gray-500">Copyright &copy; 2001 onwards, Andy Jeffries, all rights reserved.</div>
       <div class="flex space-x-4">
         <a href="https://twitter.com/andyjeffries" class="text-gray-500 hover:text-[#1DA1F2]">

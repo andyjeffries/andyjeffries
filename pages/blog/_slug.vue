@@ -23,7 +23,7 @@
 </script>
 
 <template>
-  <article class="container mx-auto text-gray-800 dark:text-gray-200">
+  <article class="max-w-5xl mx-auto text-gray-800 dark:text-gray-200">
     <h3 class="text-center">{{ article.date | formatDate }}</h3>
     <h1 class="mt-4 text-6xl text-center max-w-5xl mx-auto">{{ article.title }}</h1>
 
