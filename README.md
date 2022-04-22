@@ -1,16 +1,37 @@
-# Hi, I'm Andy 👋
 
-<!--
-**andyjeffries/andyjeffries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Andy 👋 from 🇬🇧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a self-taught developer with many years experience across a range of industries, but recently spending my time leading teams (although I still like to stay active in coding).
+
+![image](README-images/image.jpg)
+
+- 📜 Fellow of the [British Computer Society](https://www.bcs.org) and Chartered IT Professional.
+- 🪚 Co-founded [Civo](https://www.civo.com) and working as Chief Technical Officer leading teams building the next generation of cloud-native Kubernetes managed services.
+- 🌱 Learning all the changed in [Ruby on Rails 7](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) (really nice to have [TailwindCSS](https://tailwindcss.com) integrated as I ❤️ Tailwind!)
+- 🛠 Maintaining [Flexirest](https://github.com/flexirest/flexirest) a really flexible Ruby library for accessing Rest APIs in an ActiveModel like style.
+
+- 😄 My pronouns are he/him
+- ⚡ Fun fact: Aside from being a techie, I'm also a 7th Dan black belt in Taekwondo and instructor of a successful club in my hometown.
+
+
+
+## 💬 Let's collaborate
+
+I'm always open to conversations about collaboration if it helps give value to both sides.
+
+* Backend development: **Ruby on Rails, Golang**
+* Databases: **MySQL, Redis (and PostgreSQL if I have to)**
+* Hosting: **Kubernetes, Docker containers, PaaS**
+* Business: **Tech leadership, SaaS launches, entrepreneurship**
+
+
+
+## 💬 About me
+
+I'm not looking for a new role at the moment (so if you just want to get in touch about that, thanks anyway, but no thanks). However I do keep my CV online so if you want to know more about my experience... https://cv.andyjeffries.co.uk
+
+* Twitter: https://twitter.com/andyjeffries
+* LinkedIn: https://www.linkedin.com/in/andyjeffries/
+* Personal blog: https://www.andyjeffries.co.uk (mostly Taekwondo related)
+* I have a bunch of other social media too, but they are mostly just used by friends and family
