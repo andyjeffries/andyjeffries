@@ -4,7 +4,9 @@
 
 ### I'm a self-taught developer with many years experience across a range of industries, but recently spending my time leading teams (although I still like to stay active in coding).
 
-![image](README-images/image.jpg)
+<p align="center">
+  <img src="README-images/image.jpg">
+</p>
 
 - 📜 Fellow of the [British Computer Society](https://www.bcs.org) and Chartered IT Professional.
 - 🪚 Co-founded [Civo](https://www.civo.com) and working as Chief Technical Officer leading teams building the next generation of cloud-native Kubernetes managed services.
