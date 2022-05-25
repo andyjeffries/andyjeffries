@@ -10,13 +10,11 @@
 
 - 📜 Fellow of the [British Computer Society](https://www.bcs.org) and Chartered IT Professional.
 - 🪚 Co-founded [Civo](https://www.civo.com) and working as Chief Technical Officer leading teams building the next generation of cloud-native Kubernetes managed services.
-- 🌱 Learning all the changed in [Ruby on Rails 7](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) (really nice to have [TailwindCSS](https://tailwindcss.com) integrated as I ❤️ Tailwind!)
+- 🌱 Learning all the changes in [Ruby on Rails 7](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) (really nice to have [TailwindCSS](https://tailwindcss.com) integrated as I ❤️ Tailwind!)
 - 🛠 Maintaining [Flexirest](https://github.com/flexirest/flexirest) a really flexible Ruby library for accessing Rest APIs in an ActiveModel like style.
-
+- 🤝 Mentoring those more junior in the industry to achieve their goals in tech and development (reach out via Twitter if you are interested)
 - 😄 My pronouns are he/him
 - ⚡ Fun fact: Aside from being a techie, I'm also a 7th Dan black belt in Taekwondo and instructor of a successful club in my hometown.
-
-
 
 ## 💬 Let's collaborate
 
