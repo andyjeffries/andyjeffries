@@ -65,4 +65,4 @@ We’re still considering how this same style of objective grading can work for 
 
 **UPDATE 2022:** Since this post went live, we've implemented this more objective scoring style for all areas of our testing. We look for attributes that we want to see, sometimes these are strange to external examiners, but in our experience are key to getting the movement correct, even if it may not seem it. Sparring was an interesting one for us to develop, we decided what the key factors are to determine if they know sparring, with a viewpoint to one day becoming an instructor and passing it on well. We aren't interested in who won/loss, nor in people that just attack, attack, attack - because if one of their future students doesn't have that mindset, they'll lose them. So sparring scoring looks like this for us:
 
-![Sparring online](/images/posts/promotion8.png "Example from our internal system used during scoring of sparring in a grading")
+![Sparring online](/images/posts/promotion6.png "Example from our internal system used during scoring of sparring in a grading")
