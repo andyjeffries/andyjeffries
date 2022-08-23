@@ -40,7 +40,12 @@ This gives a maximum of 100, the pass mark on the day is still 60, pre-grading a
 
 ![Grading sheet example](/images/posts/promotion2.png "Example section from our grading sheet for judging a candidate’s poomsae performance")
 
-This also means that we will adjust the training method. Instead of the previous “memory first, then accuracy” ethos, we now teach six moves at a time but the candidate won’t move past them until they are completely accurate. This means we don’t need a separate polishing phase and will reduce the stereotypical “little Johnny knows the pattern, why can’t he test?”. Our answer can simply be “he still doesn’t know all of the poomsae because his accuracy level hasn’t let us get past the early part” or “in our last assessment he only got a score of 55 marks, see….”
+This also means that we will adjust the training method. Instead of the previous “memory first, then accuracy” ethos, we now teach six moves at a time but the candidate won’t move past them until they are completely accurate. This means we don’t need a separate polishing phase and will reduce the stereotypical “little Johnny knows the pattern, why can’t he test?”. Our answer can simply be “he still doesn’t know all of the poomsae because his accuracy level hasn’t let us get past the early part” or “in our last assessment he only got a score of 55 marks, see….”.
+
+In our club, we do this using a specially designed page of our website, that only examiners can login to. For poomsae it looks like this:
+
+![Poomsae grading online](/images/posts/promotion5.png "Example from our internal system used during scoring of poomsae in a grading")
+
 
 ## What else can we apply objective scoring to?
 
@@ -50,6 +55,14 @@ The way we will score this is each judge will watch one candidate perform exactl
 
 ![Grading sheet example](/images/posts/promotion3.png "Example section from our grading sheet for judging a candidate’s one-step or self-defence performance")
 
+Likewise this is done eletronically in our club, and it know looks like this:
+
+![Self-defence grading online](/images/posts/promotion8.png "Example from our internal system used during scoring of self-defence")
+
 ## What’s next?
 
 We’re still considering how this same style of objective grading can work for other areas such as free sparring and destruction; but we’re pleased with the trials done so far in this new marking style and hope sharing it helps other clubs to either be more accuracy focused and objective, or at least to think through in more detail how they score grading candidates. I’d love to hear your thoughts on this way of testing candidates, or how you do it if different from the old “just give a mark” or this objective way.
+
+**UPDATE 2022:** Since this post went live, we've implemented this more objective scoring style for all areas of our testing. We look for attributes that we want to see, sometimes these are strange to external examiners, but in our experience are key to getting the movement correct, even if it may not seem it. Sparring was an interesting one for us to develop, we decided what the key factors are to determine if they know sparring, with a viewpoint to one day becoming an instructor and passing it on well. We aren't interested in who won/loss, nor in people that just attack, attack, attack - because if one of their future students doesn't have that mindset, they'll lose them. So sparring scoring looks like this for us:
+
+![Sparring online](/images/posts/promotion8.png "Example from our internal system used during scoring of sparring in a grading")
