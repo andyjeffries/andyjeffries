@@ -9,7 +9,8 @@
 </p>
 
 - 📜 Fellow of the [British Computer Society](https://www.bcs.org) and Chartered IT Professional.
-- 🪚 Co-founded [Civo](https://www.civo.com) and working as Chief Technical Officer leading teams building the next generation of cloud-native Kubernetes managed services.
+- 🪚 Chief Technology Officer of [FounderCatalyst](https://www.foundercatalyst.com) building an innovative Lawtech platform for helping British entrepreneurs to raise funding for their companies.
+- 🪚 Co-founded [Civo](https://www.civo.com) and worked (from startup in 2016 to mid-2022) as Chief Technical Officer leading teams building the next generation of cloud-native Kubernetes managed services.
 - 🌱 Learning all the changes in [Ruby on Rails 7](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) (really nice to have [TailwindCSS](https://tailwindcss.com) integrated as I ❤️ Tailwind!)
 - 🛠 Maintaining [Flexirest](https://github.com/flexirest/flexirest) a really flexible Ruby library for accessing Rest APIs in an ActiveModel like style.
 - 🤝 Mentoring those more junior in the industry to achieve their goals in tech and development (reach out via Twitter if you are interested)
