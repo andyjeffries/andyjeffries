@@ -9,21 +9,21 @@ I've had people ask the question many times over the years what the differences 
 
 After her seminars with my students, I then spent some time comparing details in Grandmaster Kang, Ik-pil's latest 3 book set and Kukkiwon's official 5 book set of the latest Kukkiwon Textbook, along with the Kukkiwon poomsae videos on YouTube, as well as analysing poomsae competition videos to show them performing poomsae as Master Rabia described.
 
-## General introduction
+## General introduction
 
 When most people say they are a "WTF black belt" or even a "WT black belt", they are actually confused about the two major organisations responsible for Taekwondo (ignoring ITF for all of this post). Kukkiwon (KKW) is the "World Taekwondo Headquarters" and is responsible for:
 
-1. Defining the syllabus of techniques of Taekwondo
-2. Educating master instructors and examiners
-3. Issuing dan certificates based on recommendations from examiners.
+* Defining the syllabus of techniques of Taekwondo
+* Educating master instructors and examiners
+* Issuing dan certificates based on recommendations from examiners.
 
 They also run a much more varied content Taekwondo competition each year and perform a research function, but those three are the major reponsibilities. Anyone can (as of 2022) be a member of Kukkiwon via their online T-Con system. Anyone doing Taekwondo does "Kukkiwon Taekwondo" not "WT/WTF Taekwondo" and has "Kukkiwon Dan/Poom" rank, not "WT/WTF Dan/Poom" rank.
 
 World Taekwondo (WT) is a member of GAISF (Global Association of International Sports Federations) and is a purely sports organisation. Their responsibilities are:
 
-1. Defining the rules for sporting competitions for poomsae (forms) and kyorugi (sparring)
-2. Educating referees and coaches in the application of and training towards those sporting rules
-3. Authorising and organising elite competitions such as world championships and the Olympic Taekwondo competition for these sporting rules.
+* Defining the rules for sporting competitions for poomsae (forms) and kyorugi (sparring)
+* Educating referees and coaches in the application of and training towards those sporting rules
+* Authorising and organising elite competitions such as world championships and the Olympic Taekwondo competition for these sporting rules.
 
 They do not have the responsibility for defining what is and what is not Taekwondo, nor issuing any form of rank (for that, even officially, they require Kukkiwon certified rank). Individual people and dojang CANNOT be a member of WT. WT only accepts National Governing Bodies (one in each country) as their Member National Associations.
 
