@@ -1,12 +1,10 @@
 ---
-title: "Opinion piece - Choi Hong-hi - founder or fraudster"
+title: "Opinion piece: Choi Hong-hi, founder or fraudster"
 date: 2023-01-24
 description: "Lots of people herald Choi Hong-hi as the founder of Taekwondo and everything else is a fake immitation, but the facts often don't stack up that way. Let's address some of the myths surrounding him"
 ---
 
-# Opinion piece - Choi Hong-hi - founder or fraudster
-
-Choi Hong-hii (1918-2002) was a South Korean military general and is heralded by some as "the founder of Taekwondo" (태권도). He was the first president of the KTA (Korea Taekwondo Association), and was the suggester of the name Taekwondo. He was exiled from South Korea for travelling to North Korea (ignoring rules in place at the time) to spread Taekwondo and defected there.
+Choi Hong-hi (1918-2002) was a South Korean military general and is heralded by some as "the founder of Taekwondo" (태권도). He was the first president of the KTA (Korea Taekwondo Association), and was the suggester of the name Taekwondo. He was exiled from South Korea for travelling to North Korea (ignoring rules in place at the time) to spread Taekwondo and defected there.
 
 Those are all facts, held pretty much uniformly by all. However, aside from those, opinions then diverge between ITF people (and those that believe everything you read online) and Kukkiwon people. So I'll go through each of the beliefs about Choi and share some details on by understanding of why they are incorrect.
 
