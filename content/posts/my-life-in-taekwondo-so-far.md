@@ -85,3 +85,11 @@ In 2016 I returned to Korea to sit the 2nd Class International Master Course (2n
 I passed the 2nd class course too, and received another Kukkiwon Citation for my efforts.
 
 I’ve been to Korea about 7 times now over the past decade and if you do Taekwondo, it’s so worth the effort. Korean people love you if you do Taekwondo! I’m still studying Korean, I’m comfortable labelling myself a “lower advanced” now. Nowhere near fluent, but my Korean lessons these days are an hour of Korean with maybe 10 words of English. Anyone listening in may think I’m fluent but sometimes my sentences are things like “What do you call the thing that’s really cold with drinks and food in it” — when I can’t remember refridgerator or something like that. But hey, I’m happy with that level and don’t care if I ever reach fluency.
+
+## Changmookwan 8th Dan
+
+After Grandmaster Pan passed away in 2020, it felt like I'd lost both my instructor and mentor in martial arts. For me gradings have often meant so much more depending on who gives them to you. I've respected the examiners on every external panel I've tested under, but the grade doesn't mean as much as when someone I have a really good relationship has given them to me.
+
+Fortunately after Grandmaster Pan's passing, the President of Changmookwan, Grandmaster Kim, Joong-young offered to personally test me for my future ranks. This is a gentleman that has always been very friendly with me in person, inviting me to lunch every time I visit his office in Korea, and I have the utmost respect for. This offer was very kindly received.
+
+In early 2023, I made the decision to test via video (GM Kim offered to test me in person if I go to Korea, or via video, my choice). So I sent over high definition videos of me performing poomsae and sparring, along with the latest Kukkiwon High Dan Basics series to GM Kim, and I was very proud to learn that as of 20th of March 2023 I was accepted as a Changmookwan 8th Dan. Although not eligible for "International Grandmaster" status until I turn 51, Grandmaster Andreas Brinkmann the head of the Changmookwan Europe group confirmed that as an 8th Dan I officially am a Grandmaster.
