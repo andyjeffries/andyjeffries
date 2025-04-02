@@ -34,11 +34,11 @@ Choi often claimed in books (e.g. page 295 of his own self-authored book "Taekwo
 
 This has been long disputed by Korean scholars as Taekkyeon was seen as a lower class pasttime in history, and a calligraphy teacher is one of the upper classes. So a calligraphy teacher doing Taekkyeon let alone teaching it, is a stretch of belief.
 
-However, that doesn't even matter... While he originally claimed it, in an interview he walked it back.
+However, that doesn't even matter... While he originally claimed it, in an interview (published in Han Byeong-cheol’s 2003 book titled 고수를 찾아서 or Finding the Masters) he walked it back.
 
-**Interviewer:** You have written in your autobiography that you learned taek- kyeon from Han Il-dong. Did Mr. Han actually teach you any mar- tial art techniques and say they were taekkyeon?
+**Interviewer:** You have written in your autobiography that you learned Taekkyeon from Han Il-dong. Did Mr. Han actually teach you any martial art techniques and say they were Taekkyeon?
 
-**Choi:** That gentleman was good at baduk. He always had a baduk board with him. . . . In the evening Mr. Han and the village elders would gather at our house and tell martial art stories. They wanted me to grow up hearing these stories. And they talked about taekkyeon. Said they had done it. However, I never learned taekkyeon from him. I saw him kick a shuttlecock once...
+**Choi:** That gentleman was good at baduk. He always had a baduk board with him... In the evening Mr. Han and the village elders would gather at our house and tell martial art stories. They wanted me to grow up hearing these stories. And they talked about Taekkyeon. Said they had done it. However, I never learned Taekkyeon from him. I saw him kick a shuttlecock once...
 
 (Baduk is a board game, also known as Go in Japanese and Wei Qi in Chinese)
 
