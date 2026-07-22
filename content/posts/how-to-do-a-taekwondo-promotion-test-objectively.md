@@ -26,7 +26,7 @@ However this leads to either inconsistent assessment results from our master ins
 
 ## How can we do better?
 
-We’re changing the way we score certain categories within our grading syllabus ([our syllabus is available online for all to see](https://www.stevenagetaekwondo.co.uk/downloads/syllabus.pdf)) to be more objective.
+We’re changing the way we score certain categories within our grading syllabus ([our syllabus is available online for all to see](https://www.stevenagetaekwondo.co.uk/downloads/syllabus2024.pdf)) to be more objective.
 
 For poomsae we are marking in a similar way to the way World Taekwondo poomsae competition is scored, but using tweaked scoring values and criteria. I came up with these values used by having my assistant master instructors scoring candidates at our last test while I tried various values and seeing which came closest to our old method scores.
 
